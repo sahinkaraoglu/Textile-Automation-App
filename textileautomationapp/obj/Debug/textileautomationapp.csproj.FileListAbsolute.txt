@@ -1,0 +1,12 @@
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\bin\Debug\textileautomationapp.exe.config
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\bin\Debug\textileautomationapp.exe
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\bin\Debug\textileautomationapp.pdb
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\obj\Debug\textileautomationapp.csproj.AssemblyReference.cache
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\obj\Debug\textileautomationapp.Form1.resources
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\obj\Debug\textileautomationapp.Properties.Resources.resources
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\obj\Debug\textileautomationapp.csproj.GenerateResource.cache
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\obj\Debug\textileautomationapp.csproj.CoreCompileInputs.cache
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\obj\Debug\textileautomationapp.exe
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\obj\Debug\textileautomationapp.pdb
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\obj\Debug\textileautomationapp.Form2.resources
+C:\Users\karao\source\repos\textileautomationapp\textileautomationapp\obj\Debug\textileautomationapp.csproj.ResolveComReference.cache

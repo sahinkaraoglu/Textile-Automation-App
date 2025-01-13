@@ -37,13 +37,6 @@ The application uses the following main tables:
 - Cities (iller)
 - Districts (ilceler)
 
-## Installation
-
-1. Download the project as ZIP from the green "Code" button above
-2. Extract the ZIP file to your computer
-3. Run the SQL scripts in the "Veritabanı" folder using SQL Server Management Studio
-4. Open the project in Visual Studio
-
 ## Requirements
 
 - Windows OS

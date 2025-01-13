@@ -45,10 +45,10 @@ The application uses the following main tables:
 
 ## Installation
 
-1. Clone the repository
-2. Set up the MS SQL Server database using the provided SQL scripts
-3. Update the connection string in the application
-4. Build and run the application
+1. Download the project as ZIP from the green "Code" button above
+2. Extract the ZIP file to your computer
+3. Run the SQL scripts in the "Veritabanı" folder using SQL Server Management Studio
+4. Open the project in Visual Studio
 
 ## Requirements
 
@@ -56,7 +56,3 @@ The application uses the following main tables:
 - .NET Framework
 - MS SQL Server
 - Microsoft Office (for Excel export functionality)
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).

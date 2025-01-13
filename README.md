@@ -21,9 +21,12 @@ A Windows Forms application for managing textile company information and product
 - Excel integration for data export
 - Modular design with separate forms for login and main operations
 
-## Screenshots
+## Login
 
 ![Login Screen](https://github.com/sahinkaraoglu/Textile-Automation-App/assets/76259114/21dce37f-0638-4685-b754-8f5106007927)
+
+## Main
+
 ![Main Interface](https://github.com/sahinkaraoglu/Textile-Automation-App/assets/76259114/ecab9f4c-1c7a-426e-8e46-dd5d7f4eb649)
 
 ## Database Structure
